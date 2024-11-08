@@ -1,4 +1,4 @@
-# stagram Clone Dataset Analytics SQL Project ( Udemy Course)
+# Instagram Clone Dataset Analytics SQL Project ( Udemy Course)
 
 ## Project Overview
 
